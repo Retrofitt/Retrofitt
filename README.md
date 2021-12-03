@@ -1,6 +1,6 @@
-<p align='center'> 
+<div align='center'> 
   [<img src="https://retrofittsportfolio.vercel.app/static/media/logo1.aad9e671.png" width="240">](https://retrofittsportfolio.vercel.app/)
-</p>
+</div>
 
 - 👋 Hi, I’m @Retrofitt
 - 👀 I’m interested in ... photography, web development, video games
