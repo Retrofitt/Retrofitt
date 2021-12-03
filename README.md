@@ -1,5 +1,5 @@
 <div align='center'> 
-  <a href="https://retrofittsportfolio.vercel.app/"><img src="https://retrofittsportfolio.vercel.app/static/media/logo1.aad9e671.png" width="240"></a>
+  <a href="https://retrofittsportfolio.vercel.app/"><img src="https://retrofittsportfolio.vercel.app/static/media/logo1.aad9e671.png" width="180"></a>
 </div>
 
 ---
