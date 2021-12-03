@@ -1,5 +1,5 @@
 <p align='center'> 
-  <img src="https://retrofittsportfolio.vercel.app/static/media/logo1.aad9e671.png" width="60">
+  <img src="https://retrofittsportfolio.vercel.app/static/media/logo1.aad9e671.png" width="120">
 </p>
 
 - 👋 Hi, I’m @Retrofitt
