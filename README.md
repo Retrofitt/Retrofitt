@@ -1,5 +1,5 @@
 <div align='center'> 
-  [<img src="https://retrofittsportfolio.vercel.app/static/media/logo1.aad9e671.png" width="240">](https://retrofittsportfolio.vercel.app/)
+  <a href="https://retrofittsportfolio.vercel.app/"><img src="https://retrofittsportfolio.vercel.app/static/media/logo1.aad9e671.png" width="240"></a>
 </div>
 
 - 👋 Hi, I’m @Retrofitt
