@@ -26,7 +26,20 @@
   <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" width="30" title="CSS3"></a>
   <a href="https://www.cypress.io/"><img src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg" width="30" title="Cypress"></a>
   <a href="https://jestjs.io/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg" width="30" title="Jest"></a>
-<!--   <a href=""><img src="" width="30" title=""></a> -->
+  <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/redux.svg" width="30" title="Redux"></a>
+  <a href="https://knexjs.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/knex.svg" width="30" title="Knex.js"></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/express.svg" width="30" title="Express.js"></a>
+<!--   <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a>
+  <a href=""><img src="" width="30" title=""></a> -->
 </div>
 
 
