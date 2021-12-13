@@ -37,7 +37,7 @@
   <a href="https://www.adobe.com/products/indesign.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-indesign.svg" width="30" title="Adobe InDesign"></a>
   <a href="https://www.adobe.com/products/dimension.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-dimension.svg" width="30" title="Adobe Dimensions"></a>
   <a href="https://www.json.org/json-en.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/json.svg" width="30" title="JSON"></a>
-  <a href="https://sqlitestudio.pl/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/sqlite.svg" width="30" title="SQLite"></a>
+  <a href="https://sqlitestudio.pl/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/sqlite.svg" width="42" title="SQLite"></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql-logo.svg" width="30" title="PostgreSQL"></a>
   <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/vercel.svg" width="30" title="Vercel"></a>
   <a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/netlify.svg" width="30" title="Netlify"></a>
