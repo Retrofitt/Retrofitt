@@ -14,7 +14,7 @@
     <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/node-sass.svg" width="20" title="SASS"></a>
     <a href="https://lesscss.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/less.svg" width="38" title="LESS"></a>
     <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/aws.svg" width="30" title="Amazon Web Services"></a>
-  - 💞️ I’m looking to collaborate on any future projects that I might help me grow as a software engineer 
+  - 💞️ I’m looking to collaborate on any future projects that might help me grow as a software engineer 
 
 
 ## Technologies Known
