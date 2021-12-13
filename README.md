@@ -6,7 +6,7 @@
 
   - 👋 Hi, I’m Rafael
   - 👀 I’m interested in fantasy fiction, new technology, photography, software engineering, and video games
-  - 🌱 I’m currently learning <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" width="22"></a>, <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/node-sass.svg" width="22"></a>, <a href="https://lesscss.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/less.svg" width="34"></a>
+  - 🌱 I’m currently learning <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" width="22"></a>, <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/node-sass.svg" width="22"></a>, <a href="https://lesscss.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/less.svg" width="38"></a>
   - 💞️ I’m looking to collaborate on any future projects that I might help me grow as a software engineer 
 
 <!-- ---
