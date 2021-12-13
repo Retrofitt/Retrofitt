@@ -30,13 +30,13 @@
   <a href="https://knexjs.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/knex.svg" width="30" title="Knex.js"></a>
 <!--   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/express.svg" width="48" title="Express.js"></a> -->
   <a href="https://www.adobe.com/creativecloud.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-creative_cloud.svg" width="30" title="Adobe CC"></a>
+  <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-photoshop.svg" width="30" title="Adobe Photoshop"></a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-lightroom.svg" width="30" title="Adobe LightRoom"></a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom-classic.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-lightroom_classic.svg" width="30" title="Adobe LightRoom Classic"></a>
+  <a href="https://www.adobe.com/products/illustrator.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-illustrator.svg" width="30" title="Adobe Illustrator"></a>
+  <a href="https://www.adobe.com/products/indesign.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-indesign.svg" width="30" title="Adobe InDesign"></a>
+  <a href="https://www.adobe.com/products/dimension.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-dimension.svg" width="30" title="Adobe Dimensions"></a>
 <!--   <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a>
   <a href=""><img src="" width="30" title=""></a>
   <a href=""><img src="" width="30" title=""></a>
   <a href=""><img src="" width="30" title=""></a> -->
