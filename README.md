@@ -19,6 +19,8 @@
 
 ## Technologies Known
 
+---
+
 <h3 align="center">Software Engineering</h3>
 <div align="center">
   <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" width="30" title="JavaScript"></a>
@@ -37,8 +39,9 @@
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql-logo.svg" width="30" title="PostgreSQL"></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/visual-studio-code.svg" width="30" title="Visual Studio Code"></a>
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/express.svg" width="48" title="Express.js"></a>
-
 </div>
+
+---
 
 <h3 align="center">Design</h3>
 <div align="center">
@@ -52,12 +55,16 @@
   <a href="https://www.adobe.com/products/dimension.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-dimension.svg" width="30" title="Adobe Dimensions"></a>
 </div>
 
+---
+
 <h3 align="center">Deployment</h3>
 <div align="center">
     <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/vercel.svg" width="30" title="Vercel"></a>
   <a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/netlify.svg" width="30" title="Netlify"></a>
   <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/heroku-icon.svg" width="30" title="Heroku"></a>
 </div>
+
+---
 
 ## Find Me 
 
