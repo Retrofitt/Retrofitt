@@ -16,7 +16,7 @@
   <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" width="30"></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" width="30"></a>
   <a href="https://reactrouter.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react-router.svg" width="42"></a>
-  <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg" width="30" alt="Node.js"></a>
+  <a href="https://nodejs.org/en/" alt="Node.js"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg" width="30"></a>
   <a href="https://nodemon.io/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodemon.svg" width="30" alt=""></a>
 <!--   <a href=""><img src="" width="30"></a>
   <a href=""><img src="" width="30"></a>
