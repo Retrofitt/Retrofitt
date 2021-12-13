@@ -18,6 +18,8 @@
 
 
 ## Technologies Known
+
+### Software Engineering
 <div align="center">
   <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" width="30" title="JavaScript"></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" width="30" title="React.js"></a>
@@ -47,6 +49,10 @@
   <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/heroku-icon.svg" width="30" title="Heroku"></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/visual-studio-code.svg" width="30" title="Visual Studio Code"></a>
 </div>
+
+### Design
+
+### Deployment
 
 
 ## Find Me 
