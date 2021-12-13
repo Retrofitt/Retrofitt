@@ -6,7 +6,7 @@
 
   - 👋 Hi, I’m Rafael
   - 👀 I’m interested in fantasy fiction, new technology, photography, software engineering, and video games
-  - 🌱 I’m currently learning TypeScript, <a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/node-sass.svg" width="25"></a>, SCSS, LESS
+  - 🌱 I’m currently learning TypeScript, <a href=""><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/node-sass.svg" width="22"></a>, SCSS, LESS
   - 💞️ I’m looking to collaborate on any future projects that I might help me grow as a software engineer 
 
 <!-- ---
