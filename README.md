@@ -20,7 +20,7 @@
 ## Technologies Known
 
 ### Software Engineering
-<div align="center">
+<div align="justify">
   <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" width="30" title="JavaScript"></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" width="30" title="React.js"></a>
   <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg" width="30" title="Node.js"></a>
@@ -32,16 +32,16 @@
   <a href="https://jestjs.io/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg" width="30" title="Jest"></a>
   <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/redux.svg" width="30" title="Redux"></a>
   <a href="https://knexjs.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/knex.svg" width="30" title="Knex.js"></a>
-<!--   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/express.svg" width="48" title="Express.js"></a> -->
-
   <a href="https://www.json.org/json-en.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/json.svg" width="30" title="JSON"></a>
   <a href="https://sqlitestudio.pl/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/sqlite.svg" width="60" title="SQLite"></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/postgresql-logo.svg" width="30" title="PostgreSQL"></a>
   <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/visual-studio-code.svg" width="30" title="Visual Studio Code"></a>
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/express.svg" width="48" title="Express.js"></a>
+
 </div>
 
 ### Design
-<div align="center">
+<div align="justify">
     <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" width="30" title="CSS3"></a>
     <a href="https://www.adobe.com/creativecloud.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-creative_cloud.svg" width="30" title="Adobe CC"></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-photoshop.svg" width="30" title="Adobe Photoshop"></a>
@@ -53,7 +53,7 @@
 </div>
 
 ### Deployment
-<div align="center">
+<div align="justify">
     <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/vercel.svg" width="30" title="Vercel"></a>
   <a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/netlify.svg" width="30" title="Netlify"></a>
   <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/heroku-icon.svg" width="30" title="Heroku"></a>
@@ -65,7 +65,7 @@
 Retrofitt/Retrofitt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<div align="center">
+<div align="justify">
   <a href="https://www.linkedin.com/in/rafael-mendoza-29a142215/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30"></a>
   <a href="https://twitter.com/retrofit_io"><img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="30"></a>
   <a href="https://www.instagram.com/retrofit.io/"><img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="30"></a>
