@@ -1,6 +1,6 @@
 <div align='center'> 
   
-  <a href="https://retrofittsportfolio.vercel.app/"> ![Github Banner(small)](https://user-images.githubusercontent.com/86266105/145883534-f6f6f7fd-a47a-4ebb-a280-04b3ea8985b0.jpg)
+  <a href="https://retrofittsportfolio.vercel.app/" title="Portfolio"> ![Github Banner(small)](https://user-images.githubusercontent.com/86266105/145883534-f6f6f7fd-a47a-4ebb-a280-04b3ea8985b0.jpg)
 </a>
 </div>
 
