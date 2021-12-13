@@ -6,7 +6,7 @@
 ## About
   - 👋 Hi, I’m Rafael
   - 👀 I’m interested in fantasy fiction, new technology, photography, software engineering, and video games
-  - 🌱 I’m currently learning <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" width="22" title="TypeScript"></a>, <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/node-sass.svg" width="22" title="SASS"></a>, <a href="https://lesscss.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/less.svg" width="38" title="LESS"></a>
+  - 🌱 I’m currently learning <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/typescript-icon.svg" width="22" title="TypeScript"></a>, <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/node-sass.svg" width="22" title="SASS"></a>, <a href="https://lesscss.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/less.svg" width="38" title="LESS"></a><a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/aws.svg" width="30" title="Amazon Web Services"></a>
   - 💞️ I’m looking to collaborate on any future projects that I might help me grow as a software engineer 
 
 
@@ -18,11 +18,11 @@
   <a href="https://nodemon.io/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodemon.svg" width="30" title="Nodemon"></a>
     <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/python.svg" width="30" title="Python"></a>
     <a href="https://reactrouter.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react-router.svg" width="40" title="React-Router"></a>
-<!--   <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a>
-  <a href=""><img src="" width="30" title=""></a> -->
+  <a href="https://html.spec.whatwg.org/multipage/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/html-5.svg" width="30" title="HTML5"></a>
+  <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" width="30" title="CSS3"></a>
+  <a href="https://www.cypress.io/"><img src="https://github.com/get-icon/geticon/blob/master/icons/cypress.svg" width="30" title="Cypress"></a>
+  <a href="https://jestjs.io/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/jest.svg" width="30" title="Jest"></a>
+<!--   <a href=""><img src="" width="30" title=""></a> -->
 </div>
 
 
