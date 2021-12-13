@@ -1,6 +1,9 @@
 <div align='center'> 
-  <a href="https://retrofittsportfolio.vercel.app/"><img src="https://retrofittsportfolio.vercel.app/static/media/logo1.aad9e671.png" width="180"></a>
+  
+  <a href="https://retrofittsportfolio.vercel.app/"> ![Github Banner(small)](https://user-images.githubusercontent.com/86266105/145883534-f6f6f7fd-a47a-4ebb-a280-04b3ea8985b0.jpg)
+</a>
 </div>
+
 
 ---
 ## About
