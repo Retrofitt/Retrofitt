@@ -4,10 +4,10 @@
 
 ---
 
-  - 👋 Hi, I’m @Retrofitt
-  - 👀 I’m interested in ... photography, web development, video games
-  - 🌱 I’m currently learning ... Full stack software engineering
-  - 💞️ I’m looking to collaborate on ... future projects to both grow my network and become more hireable
+  - 👋 Hi, I’m Rafael
+  - 👀 I’m interested in fantasy fiction, new technology, photography, software engineering, and video games
+  - 🌱 I’m currently learning TypeScript, SASS, SCSS, LESS
+  - 💞️ I’m looking to collaborate on any future projects that I might help me grow as a software engineer 
 
 ---
 
