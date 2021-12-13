@@ -19,8 +19,8 @@
 
 ## Technologies Known
 
-### Software Engineering
-<div align="justify">
+<h3 align="center">Software Engineering</h3>
+<div align="center">
   <a href="https://www.javascript.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/javascript.svg" width="30" title="JavaScript"></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" width="30" title="React.js"></a>
   <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/nodejs-icon.svg" width="30" title="Node.js"></a>
@@ -40,8 +40,8 @@
 
 </div>
 
-### Design
-<div align="justify">
+<h3 align="center">Design</h3>
+<div align="center">
     <a href="https://www.w3.org/TR/CSS/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/css-3.svg" width="30" title="CSS3"></a>
     <a href="https://www.adobe.com/creativecloud.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-creative_cloud.svg" width="30" title="Adobe CC"></a>
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-photoshop.svg" width="30" title="Adobe Photoshop"></a>
@@ -52,8 +52,8 @@
   <a href="https://www.adobe.com/products/dimension.html"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/adobe-dimension.svg" width="30" title="Adobe Dimensions"></a>
 </div>
 
-### Deployment
-<div align="justify">
+<h3 align="center">Deployment</h3>
+<div align="center">
     <a href="https://vercel.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/vercel.svg" width="30" title="Vercel"></a>
   <a href="https://www.netlify.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/netlify.svg" width="30" title="Netlify"></a>
   <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/heroku-icon.svg" width="30" title="Heroku"></a>
