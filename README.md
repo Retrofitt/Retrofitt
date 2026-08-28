@@ -43,11 +43,5 @@ Beyond writing production-ready code, I leverage my background in graphic design
   
   <!-- Grid layout: Detailed languages & Coding Habits side-by-side -->
   <img src="./github-widgets/languages.svg" alt="Detailed Tech Languages" width="480" />
-  <br /><br />
-  <img src="./github-widgets/habits.svg" alt="Coding Habits and Productivity" width="480" />
-  <br /><br />
-  
-  <!-- Bottom row: Gamified profile achievements -->
-  <img src="./github-widgets/achievements.svg" alt="Developer Achievements" width="480" />
 </div>
 
