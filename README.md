@@ -32,11 +32,22 @@ Beyond writing production-ready code, I leverage my background in graphic design
 
 ---
 
-### 📊 Engineering Metrics
+---
+
+### 📊 Engineering Metrics & Developer Analytics
 
 <div align="center">
-  <img src="./github-widgets/overview.svg" alt="GitHub Overview Metrics" width="480" />
-  <br />
-  <img src="./github-widgets/languages.svg" alt="GitHub Language Metrics" width="480" />
+  <!-- Top row: Profile overview card -->
+  <img src="./github-widgets/overview.svg" alt="GitHub Overview" width="480" />
+  <br /><br />
+  
+  <!-- Grid layout: Detailed languages & Coding Habits side-by-side -->
+  <img src="./github-widgets/languages.svg" alt="Detailed Tech Languages" width="480" />
+  <br /><br />
+  <img src="./github-widgets/habits.svg" alt="Coding Habits and Productivity" width="480" />
+  <br /><br />
+  
+  <!-- Bottom row: Gamified profile achievements -->
+  <img src="./github-widgets/achievements.svg" alt="Developer Achievements" width="480" />
 </div>
 
