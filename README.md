@@ -1,7 +1,7 @@
 # Hi, I'm Rafael Mendoza 👋
 **Full-Stack Software Engineer & Creative Developer**
 
-👉 **[Explore My Portfolio Website](https://ramendev.io)**  
+👉 **[Explore My Portfolio Website](https://portfolio.ramendev.io)**  
 👉 **[Connect with Me on LinkedIn](https://linkedin.com)**
 
 ---
