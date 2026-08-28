@@ -30,12 +30,13 @@ Beyond writing production-ready code, I leverage my background in graphic design
 
 ---
 
+---
+
 ### 📊 Engineering Metrics
 
-<!-- UPDATE_TIME_START -->
-<!-- UPDATE_TIME_END -->
+<div align="center">
+  <img src="./github-widgets/overview.svg" alt="GitHub Overview Metrics" width="480" />
+  <br />
+  <img src="./github-widgets/languages.svg" alt="GitHub Language Metrics" width="480" />
+</div>
 
-<!-- STATS_START -->
-![](./github-widgets/overview.svg)
-![](./github-widgets/languages.svg)
-<!-- STATS_END -->
