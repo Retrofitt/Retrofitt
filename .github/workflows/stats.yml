@@ -1,0 +1,26 @@
+name: Generate GitHub README Stats SVGs
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Automatically runs every night at midnight
+  workflow_dispatch: # Allows you to manually click a button to run it immediately
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Dynamic Stats SVGs
+        uses: teoxoy/profile-readme-stats@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Updated SVGs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@://github.com"
+          git add github-widgets/
+          git commit -m "actions: update github profile dashboard stats metrics" || exit 0
+          git push
