@@ -1,8 +1,8 @@
-name: Generate GitHub README Stats
+name: Generate Comprehensive GitHub Metrics
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs nightly
+    - cron: '0 0 * * *' # Refreshes every single night at midnight
   workflow_dispatch: # Allows manual trigger
 
 jobs:
@@ -14,7 +14,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Contribution Metrics
+      # Widget 1: General Overview Header Card
+      - name: Generate Overview Metrics
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,7 +25,8 @@ jobs:
           config_timezone: America/Los_Angeles
           filename: github-widgets/overview.svg
 
-      - name: Generate Languages Metrics
+      # Widget 2: Detailed Language Analytics (Deep Code Tracking)
+      - name: Generate Detailed Languages
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -32,6 +34,38 @@ jobs:
           template: classic
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: html, css
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes # Digs into nested submodules
+          plugin_languages_details: bytes-size, percentage, lines
+          plugin_languages_limit: 10 # Displays your top 10 programming languages
           filename: github-widgets/languages.svg
+
+      # Widget 3: Gamified Profile Achievements (Recruiters Love This)
+      - name: Generate Developer Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Retrofitt
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: C # Only show earned rank C badges or higher
+          plugin_achievements_secrets: yes # Displays rare Easter Egg achievement unlocks
+          plugin_achievements_display: compact
+          filename: github-widgets/achievements.svg
+
+      # Widget 4: Coding Habits & Time Breakdown
+      - name: Generate Habits & Productivity Profiles
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Retrofitt
+          template: classic
+          base: ""
+          plugin_habits: yes
+          plugin_habits_from: 200 # Looks across your last 200 commits
+          plugin_habits_days: 14
+          plugin_habits_facts: yes # Infers text facts like "Midday coder"
+          plugin_habits_charts: yes # Renders a precise hourly productivity bar graph
+          config_timezone: America/Los_Angeles
+          filename: github-widgets/habits.svg
