@@ -1,13 +1,13 @@
 # Hi, I'm Rafael Mendoza 👋
 **Full-Stack Software Engineer & Creative Developer**
 
-[![Portfolio](https://shields.io)](https://ramendev.io)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rafael-mendoza-29a142215/)
+👉 **[Explore My Portfolio Website](https://ramendev.io)**  
+👉 **[Connect with Me on LinkedIn](https://linkedin.com)**
 
 ---
 
 ### 💻 About Me
-I am a Full-Stack Software Engineer focused on building thoroughly executed features that bridge complex backend architecture with clean frontend design. With engineering experience at [Doctor Genius](https://www.linkedin.com/in/rafael-mendoza-29a142215) and a deep background in agile workflows, web analytics, and scalable UI/UX components, I optimize web ecosystems for performance and seamless user interaction.
+I am a Full-Stack Software Engineer focused on building thoroughly executed features that bridge complex backend architecture with clean frontend design. With engineering experience at Doctor Genius and a deep background in agile workflows, web analytics, and scalable UI/UX components, I optimize web ecosystems for performance and seamless user interaction.
 
 Beyond writing production-ready code, I leverage my background in graphic design and photography to bring sharp aesthetic precision and creative visual storytelling to everything I build.
 
@@ -32,6 +32,10 @@ Beyond writing production-ready code, I leverage my background in graphic design
 
 ### 📊 Engineering Metrics
 
-<div align="center">
-  <img src="https://vercel.app" alt="Rafael's GitHub Stats" width="480" />
-</div>
+<!-- UPDATE_TIME_START -->
+<!-- UPDATE_TIME_END -->
+
+<!-- STATS_START -->
+![](./github-widgets/overview.svg)
+![](./github-widgets/languages.svg)
+<!-- STATS_END -->
